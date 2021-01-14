@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasherClient", "HasherClient\HasherClient.csproj", "{F4FCD0C4-008E-4E4C-80FD-F26A3528CE0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4FCD0C4-008E-4E4C-80FD-F26A3528CE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FCD0C4-008E-4E4C-80FD-F26A3528CE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FCD0C4-008E-4E4C-80FD-F26A3528CE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FCD0C4-008E-4E4C-80FD-F26A3528CE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74D055EF-FF68-4466-AFEA-CC1E35DCBD72}
+	EndGlobalSection
+EndGlobal
